@@ -1,0 +1,7 @@
+C:\Users\segal2\Downloads\OOPsSolution\OOPsSolution\OOPsReview\bin\Debug\OOPsReview.exe.config
+C:\Users\segal2\Downloads\OOPsSolution\OOPsSolution\OOPsReview\bin\Debug\OOPsReview.exe
+C:\Users\segal2\Downloads\OOPsSolution\OOPsSolution\OOPsReview\bin\Debug\OOPsReview.pdb
+C:\Users\segal2\Downloads\OOPsSolution\OOPsSolution\OOPsReview\obj\Debug\OOPsReview.csprojAssemblyReference.cache
+C:\Users\segal2\Downloads\OOPsSolution\OOPsSolution\OOPsReview\obj\Debug\OOPsReview.csproj.CoreCompileInputs.cache
+C:\Users\segal2\Downloads\OOPsSolution\OOPsSolution\OOPsReview\obj\Debug\OOPsReview.exe
+C:\Users\segal2\Downloads\OOPsSolution\OOPsSolution\OOPsReview\obj\Debug\OOPsReview.pdb

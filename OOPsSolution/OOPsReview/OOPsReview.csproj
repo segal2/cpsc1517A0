@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{27107972-C914-4256-8CD9-2701F8DCA8EE}</ProjectGuid>
+    <ProjectGuid>{2290CD54-DF98-4CEA-893B-B6A3B074A045}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>OOPsReview</RootNamespace>
     <AssemblyName>OOPsReview</AssemblyName>
@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Estimate.cs" />
     <Compile Include="FencePanel.cs" />
+    <Compile Include="Gate.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
